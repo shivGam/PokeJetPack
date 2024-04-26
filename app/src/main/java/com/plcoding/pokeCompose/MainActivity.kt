@@ -1,4 +1,4 @@
-package com.plcoding.jetpackcomposepokedex
+package com.plcoding.pokeCompose
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -8,7 +8,7 @@ import androidx.compose.material.Surface
 import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.tooling.preview.Preview
-import com.plcoding.jetpackcomposepokedex.ui.theme.JetpackComposePokedexTheme
+import com.plcoding.pokeCompose.ui.theme.JetpackComposePokedexTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
